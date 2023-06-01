@@ -12,7 +12,7 @@ Some of the challenges and limitations of my project are described in more detai
  
  
  
-## How to install and run the Project
+## How to install and run the project
  
 My code uses the following Python modules and they should be installed on your machine before running the code:
  
