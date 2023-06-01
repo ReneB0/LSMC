@@ -16,10 +16,10 @@ Some of the challenges and limitations of my project are discribed in more detai
  
 My code uses the following Python modules and they should be installed on your machine before running the code:
  
--NumPy
--math
--scipy.stats
--PyLab
+-NumPy  
+-math  
+-scipy.stats  
+-PyLab  
  
 ## How to Use the Project
  
