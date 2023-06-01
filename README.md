@@ -23,7 +23,7 @@ My code uses the following Python modules and they should be installed on your m
  
 ## How to Use the Project
  
-Conbertible Bonds can come with several distinct features such as put, calls, duration, coupon etc. and market assumptions for the risk free rate and stock volatility which can be adjusted. In additon, I added the possebility of stock jumps in the model with the possebility do define size and frequency of the jump. With these input assumptions, the code will model the fair value of instrument.
+Convertible Bonds can come with several distinct features such as put, calls, duration, coupon etc. and market assumptions for the risk free rate and stock volatility which can be adjusted. In addition, I added the possibility of stock jumps in the model with the possibility do define size and frequency of the jump. With these input assumptions, the code will model the fair value of instrument.
  
  
 ## License
