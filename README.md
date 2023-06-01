@@ -28,6 +28,6 @@ Conbertible Bonds can come with several distinct features such as put, calls, du
  
 ## License
  
-This project is MIT licensed.
+This project is [MIT](https://github.com/ReneB0/LSMC/blob/main/LICENSE) licensed.
 
 
